@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import Link from 'next/link';
 
 function Sobre() {
   return (
@@ -14,7 +14,7 @@ function Sobre() {
         </Link>
       </li>
     </ul>
-  )
+  );
 }
 
-export default Sobre
+export default Sobre;
